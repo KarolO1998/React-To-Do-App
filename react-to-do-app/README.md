@@ -1,3 +1,9 @@
+# Group React Project
+This project was create with the sole intentions to learn how to work collaborativly as a group and gain more experiance using React!!
+
+## Using the To Do App 
+You can easily list your day to day task, daily schedules & other tasks. You'll be able to add your task by clicking the add button. You can also add as many task as you may wish, along with delete a task.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
