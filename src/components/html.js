@@ -3,12 +3,7 @@ import React from "react";
 function Html() {
   return (
     <>
-      <div id="container">
-        <h1>
-         Nucamp To-Do List <i class="fa fa-plus"></i>
-        </h1>
-        <input type="text" placeholder="Add New Todo" />
-
+      <div>
         <ul>
           <li>
             <span>
