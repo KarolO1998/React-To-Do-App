@@ -1,6 +1,6 @@
 import React from "react";
 
-function html() {
+function Html() {
   return (
     <>
       <div id="container">
@@ -34,4 +34,4 @@ function html() {
   );
 }
 
-export default html;
+export default Html;
